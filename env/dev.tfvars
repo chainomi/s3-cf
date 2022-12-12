@@ -1,0 +1,6 @@
+region="us-east-1"
+environment="xxx"
+project_name="xxx"
+s3_bucket_name="xxxxx"
+index_document="index.html"
+error_document="404.html"
